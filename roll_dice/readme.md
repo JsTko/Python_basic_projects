@@ -1,4 +1,4 @@
-# ROLL_DICE <a href="https://emoji.gg/emoji/6630-na-dicepurple"><img src="https://cdn3.emoji.gg/emojis/6630-na-dicepurple.png" width="64px" height="64px" alt="NA_DicePurple_"></a>
+# ROLL_DICE <a href="https://emoji.gg/emoji/6630-na-dicepurple"><img src="https://cdn3.emoji.gg/emojis/6630-na-dicepurple.png" width="32px" height="32px" alt="NA_DicePurple_"></a>
 simple simulator of rolling a dice
 # Features
 - changing maximal possible roll
